@@ -1,0 +1,39 @@
+{
+    "players": {
+      "1057317722284884039": {
+        "hash": "36a0c1068dc2ce33c5b5073ef7ff30236fedd7f86ef00bd0c24d3190493783ac4cd4931348a56bd3b4cf2297caad0c99589847ec8b6560ea7b4541a3d8600029",
+        "invulnerable": true
+      },
+      "917452678446075914": {
+        "hash": "",
+        "invulnerable": true
+      },
+       "918055711584432149": {
+        "hash": "",
+        "invulnerable": true
+      },
+       "918055711584432149": {
+        "hash": "",
+        "invulnerable": true
+      },
+       "982316881010655306": {
+        "hash": "",
+        "invulnerable": true
+      },
+       "903828269860786176": {
+        "hash": "",
+        "invulnerable": true
+      },
+      "997880796302016562": {
+        "hash": "",
+        "invulnerable": true
+      }
+    },
+    "owners": {
+      "331481988785766402": {
+        "hash": "",
+        "invulnerable": true
+       }
+    },
+    "chattags": {}
+}
